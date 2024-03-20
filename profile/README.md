@@ -4,5 +4,5 @@ We're on our way to try and reinvent the way Business Software works, and we're 
 
 OneSila should handle the complexity of manufacturers, wholesalers, and retailers out of the box, from purchasing through pricing management, inventory, and data distribution. Crucially, it should be very simple to use without the need for user training.
 
- A new, modern way designed to fundamentally reduce administration.
+A new, modern way designed to fundamentally reduce administration based on Django/Graphql/Vue
 
